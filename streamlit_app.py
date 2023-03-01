@@ -1,8 +1,9 @@
 import streamlit
-
-streamlit.title('Hello World!!!')
-
-streamlit.header('Breakfast menu')
-streamlit.text('Omega 3 and Bulebarry oatmeal')
-streamlit.text('kale, Spinach & Rocket Smoothie')
-streamlit.text('Hard-Boiled Free-Rnge Egg')
+ 🥗 🐔 🥑🍞
+streamlit.header(' Breakfast Menu')
+streamlit.text('('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 avocado tost')
+               
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
